@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @invalituser
-- 👀 I’m interested in writing code in c++, cybersecurity 
+- 👀 I’m interested in writing code in c++. Cybersecurity sphere (Pentesting)
 - 🌱 I’m currently learning Linux Fundamentals, c++ OOP
 - 💞️ I’m looking to collaborate on cybersecurity sphere, feel free to contact 
 - 📫 How to reach me: invalituser@yahoo.com
